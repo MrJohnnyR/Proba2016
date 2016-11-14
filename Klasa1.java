@@ -10,4 +10,11 @@ class Klasa1{
   Klasa1(){
   }
   
+  
+  Klasa1(Strign ime, String prezime, String jmbg){
+    this.ime = ime;
+    this.prezime = prezime;
+    this.jmbg = jmbg;
+  }
+  
 }
