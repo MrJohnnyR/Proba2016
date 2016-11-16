@@ -15,6 +15,7 @@ class Klasa1{
     this.ime = ime;
     this.prezime = prezime;
     this.jmbg = jmbg;
+	//Izmena zbog komita
   }
   
 }
