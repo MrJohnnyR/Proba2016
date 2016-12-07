@@ -17,6 +17,7 @@ class Klasa1{
     this.jmbg = jmbg;
 	//Izmena zbog komita
 	//Izmena 2
+	//sadasdasdasdas
   }
   
 }
