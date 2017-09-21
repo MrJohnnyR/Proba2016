@@ -8,6 +8,7 @@ class Klasa1{
   }
   
   Klasa1(){
+bhjbhjhj
   }
   
   
